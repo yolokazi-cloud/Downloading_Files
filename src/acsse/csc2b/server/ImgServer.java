@@ -9,6 +9,7 @@ import java.net.Socket;
  * @version P04
  *
  */
+ //uploaded on Github
 public class ImgServer {
 //attributes
 	private ServerSocket server;
